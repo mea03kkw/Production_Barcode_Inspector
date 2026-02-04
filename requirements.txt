@@ -1,0 +1,13 @@
+# 2D Barcode Detection - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+
+# Barcode Detection (2D barcodes like QR codes, Data Matrix, etc.)
+pyzbar>=0.1.9
+
+# Configuration
+pyyaml>=6.0
